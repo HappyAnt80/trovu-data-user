@@ -53,7 +53,7 @@
 # eBay
   ekp 0: https://www.ebay-kleinanzeigen.de/stadt/potsdam/
   pd 0: http://ebay.de/usr/praiosdiener
-  pda 0: url: https://www.ebay.de/sch/praiosdiener/m.html?_nkw=&_armrs=1&_ipg=&_from=
+  pda 0: https://www.ebay.de/sch/praiosdiener/m.html?_nkw=&_armrs=1&_ipg=&_from=
 
 # Fliegerei
   fr 0: https://www.radarbox.com/@52.38381,13.06261,z12
