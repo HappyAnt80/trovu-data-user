@@ -17,9 +17,7 @@ kino 0:
 10 0:
   url: http://10minutemail.com/10MinuteMail/index.html
   title: "10"
-gm 1:
-  url: http://maps.google.de/maps?hl=<$language>&q=<Ort>%2C%20Germany?force=canvas
-  title: gm
+gm 1: https://www.google.com/maps/search/<Ort>
 gi 0:
   url: http://images.google.com/imghp?hl=de&ie=utf-8&tab=wi
   title: gi
