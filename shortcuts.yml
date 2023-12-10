@@ -1,6 +1,4 @@
-s 0:
-  url: http://www.spiegel.de/
-  title: s
+s 0: http://www.spiegel.de/
 w 0:
   url: http://de.wikipedia.org/wiki/Wikipedia:Hauptseite
   title: w
