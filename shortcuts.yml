@@ -1,155 +1,62 @@
-s 0: http://www.spiegel.de/
-w 0:
-  url: http://de.wikipedia.org/wiki/Wikipedia:Hauptseite
-  title: w
-we 0:
-  url: http://en.wikipedia.org/wiki/Main_Page
-  title: we
-we 1:
-  url: http://en.wikipedia.org/wiki/Special:Search?go=Article&search=<article>
-  title: we
-wa 0:
-  url: http://www.wiki-aventurica.de
-  title: wa
-kino 0:
-  url: http://thalia-potsdam.de
-  title: kino
-10 0:
-  url: http://10minutemail.com/10MinuteMail/index.html
-  title: "10"
-gm 1: https://www.google.com/maps/search/<Ort>
-gi 0:
-  url: http://images.google.com/imghp?hl=de&ie=utf-8&tab=wi
-  title: gi
-gm 0:
-  url: https://www.google.com/maps/@30,25,3z?force=canvas
-  title: gm
-t 0:
-  url: http://www.tagesschau.de/
-  title: t
-r1 0:
-  url: http://www.radioeins.de/livestream/index.html
-  title: r1
-wp 0:
-  url: http://www.wetter.de/deutschland/wetter-potsdam-18228273.html
-  title: wp
-faq 0:
-  url: https://de-de.facebook.com/filmauskenner
-  title: Filmauskennerquiz
-uci 0:
-  url: http://www.uci-kinowelt.de/Potsdam/Programm
-  title: UCI Kinowelt Potsdam
-dsy 0:
-  url: https://www.youtube.com/user/TheDiceStormers/videos
-  title: Dicestormers Youtube
-us 0:
-  url: http://www.sporcle.com/games/mhershfield/us-states-no-outlines-minefield
-  title: US-States
-gmp 0:
-  url: https://www.google.de/maps/@52.3977679,13.0761828,13z?force=canvas
-  title: Google Maps - Potsdam
-pollen 0:
-  url: http://www.wetteronline.de/pollen/potsdam
-  title: Pollenflug in Potsdam
-gala 0:
-  url: http://www.galadriel-spiele.de/seite/37734/galadriel-spieletreff.html
-  title: Galadriel Spieletreff
-ekp 0:
-  url: https://www.ebay-kleinanzeigen.de/stadt/potsdam/
-  title: eBay Kleinanzeigen Potsdam
-ard 0:
-  url: https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL2xpdmUvY2xpcC9hYmNhMDdhMy0zNDc2LTQ4NTEtYjE2Mi1mZGU4ZjY0NmQ0YzQ
-  title: ARD Livestream
-rbb 0:
-  url: http://mediathek.rbb-online.de/tv/live?kanal=21518356
-  title: RBB
-'# 0':
-  url: https://www.findfind.it/shortcuts?namespace=happyant
-  title: Meine Shortcuts
-pp 0:
-  url: https://www.paypal.com/myaccount/home
-  title: Paypal
-dkb 0:
-  url: https://www.ib.dkb.de/banking
-  title: DKB
-blu 0:
-  url: http://swp-potsdam.de/swp/de/sfb/wir_fuer_sie_sfb/2016_09_oeffnungszeiten_1.php
-  title: Öffnungszeiten Schwimmbad Potsdam
-pd 0:
-  url: http://ebay.de/usr/praiosdiener
-  title: Verkäufer "Praiosdiener" bei ebay
-pda 0:
-  url: https://www.ebay.de/sch/praiosdiener/m.html?_nkw=&_armrs=1&_ipg=&_from=
-  title: eBay-Artikel
-sc 0:
-  url: https://www.youtube.com/@ColbertLateShow/videos
-  title: Colbert
-kt 0:
-  url: https://www.kicktipp.de/stadionwuerstchen/
-  title: Kicktipp
-slb 0:
-  url: https://biberdb.bibliothek.potsdam.de/opax/de/qsim.html.S
-  title: Stadt- und Landesbibliothek Potsdam
-fr 0:
-  url: https://www.radarbox.com/@52.38381,13.06261,z12
-  title: Flugradar
-mr 0:
-  url: https://www.instagram.com/maggierogers/?hl=de
-  title: Instagram Maggie Rogers
-pds 0:
-  url: https://my.ebay.de/ws/eBayISAPI.dll?MyEbayBeta&CurrentPage=MyeBayNextSold
-  title: Verkauft
-lwt 0:
-  url: https://www.youtube.com/results?search_query=last+week+tonight
-  title: Last Week Tonight
-wop 0:
-  url: https://www.world-of-pizza.de/potsdam-city/
-  title: WOP
-gmd 0:
-  url: https://www.google.de/maps/@51,11,7z?force=canvas
-  title: Google Maps Deutschland
-ao 0:
-  url: https://www.datev.de/ano/
-  title: Datec
-su 0:
-  url: https://www.sonnenuntergang.de/sonnenuntergang/Potsdam/dezember.html
-  title: Sonnenuntergang
-sym 0:
-  url: https://roleplayaz.miraheze.org/wiki/Symbaroum
-  title: RPGWiki
-iss 0:
-  url: https://spotthestation.nasa.gov/tracking_map.cfm
-  title: ISS-Location
-zdf 0:
-  url: https://www.zdf.de/live-tv
-  title: ZDF
-arte 0:
-  url: https://www.arte.tv/de/live/
-  title: ARTE
-fh 0:
-  url: https://swp.webspeiseplan.de/menu
-  title: FH-Mensa
-geo 0:
-  url: https://geotastic.net/home
-  title: Geotastic
-n 0:
-  url: https://www.netflix.com/browse
-  title: Netflix
-druck 0:
-  url: https://192.168.0.4/home/status.html
-  title: Drucker
-fn 0:
-  url: https://www.flightnet.aero/default.aspx?lang=de&company=fshg&user=anhild
-  title: Flightnet
-ws 0:
-  url: https://www.flugplatz-schoenhagen.aero/piloten/verkehrslandeplatz/flugplatzwetter.html
-  title: Flugplatzwetter Schönhagen
-t 1:
-  url: https://www.flightnet.aero/Reporting/ScheduleOverview.aspx?month=<Monat>&year=2022&type=Pilot
-  title: Termine
-gpt 0:
-  url: https://chat.openai.com/chat
-  title: ChatGPT
-j 0:
-  url: https://henara-tickets.atlassian.net/jira/software/c/projects/HVO/boards/37
-  title: Board
+# Nachrichten
+	s 0: http://www.spiegel.de/
+	t 0: http://www.tagesschau.de/
+
+# Arbeit
+	j 0: https://henara-tickets.atlassian.net/jira/software/c/projects/HVO/boards/37
+
+# Wikis
+	w 0: http://de.wikipedia.org/wiki/Wikipedia:Hauptseite
+	we 0: http://en.wikipedia.org/wiki/Main_Page
+	wa 0: http://www.wiki-aventurica.de
+
+# Google Maps
+	gm 0: https://www.google.com/maps/@30,25,3z?force=canvas
+	gm 1: https://www.google.com/maps/search/<Ort>
+	gmd 0: https://www.google.de/maps/@51,11,7z?force=canvas
+	gmp 0: https://www.google.de/maps/@52.3977679,13.0761828,13z?force=canvas
+	gmb 0: https://www.google.de/maps/@52.515,13.39,12z?force=canvas
+	gmhh 0: https://www.google.de/maps/@52.567,10,13z?force=canvas
+
+# Streaming
+	ard 0: https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL2xpdmUvY2xpcC9hYmNhMDdhMy0zNDc2LTQ4NTEtYjE2Mi1mZGU4ZjY0NmQ0YzQ
+	arte 0: https://www.arte.tv/de/live/
+	dsy 0: https://www.youtube.com/user/TheDiceStormers/videos
+	lwt 0: https://www.youtube.com/results?search_query=last+week+tonight
+	n 0: https://www.netflix.com/browse
+	sc 0: https://www.youtube.com/@ColbertLateShow/videos
+	rbb 0: http://mediathek.rbb-online.de/tv/live?kanal=21518356
+	zdf 0: https://www.zdf.de/live-tv
+
+# Fin
+	dkb 0: https://www.ib.dkb.de/banking
+	pp 0: https://www.paypal.com/myaccount/home
+
+# Wetter&Natur
+	wp 0: http://www.wetter.de/deutschland/wetter-potsdam-18228273.html
+	pollen 0: http://www.wetteronline.de/pollen/potsdam
+	su 0: https://www.sonnenuntergang.de/sonnenuntergang/Potsdam/dezember.html
+
+# Allerlei
+	gpt 0: https://chat.openai.com/chat
+	mr 0: https://www.instagram.com/maggierogers/?hl=de
+	faq 0: https://de-de.facebook.com/filmauskenner
+	iss 0: https://spotthestation.nasa.gov/tracking_map.cfm
+	kino 0: http://thalia-potsdam.de
+	uci 0: http://www.uci-kinowelt.de/Potsdam/Programm
+	us 0: http://www.sporcle.com/games/mhershfield/us-states-no-outlines-minefield
+
+# Essen
+	wop 0: https://www.world-of-pizza.de/potsdam-city/
+	fh 0: https://swp.webspeiseplan.de/menu
+
+# eBay
+	ekp 0: https://www.ebay-kleinanzeigen.de/stadt/potsdam/
+	pd 0: http://ebay.de/usr/praiosdiener
+	pda 0: url: https://www.ebay.de/sch/praiosdiener/m.html?_nkw=&_armrs=1&_ipg=&_from=
+
+# Fliegerei
+	fr 0: https://www.radarbox.com/@52.38381,13.06261,z12
+	fn 0: https://www.flightnet.aero/default.aspx?lang=de&company=fshg&user=anhild
+	ws 0: https://www.flugplatz-schoenhagen.aero/piloten/verkehrslandeplatz/flugplatzwetter.html
+	t 1: https://www.flightnet.aero/Reporting/ScheduleOverview.aspx?month=<Monat>&year=2024&type=Pilot
