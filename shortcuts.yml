@@ -7,6 +7,9 @@
 
 # Arbeit
   j 0: https://henara-tickets.atlassian.net/jira/software/c/projects/HVO/boards/37
+  s 1: https://henara-tickets.atlassian.net/browse/SVO-<Nummer>
+  h 1: https://henara-tickets.atlassian.net/browse/HVO-<Nummer>
+  desk 1: https://henara-tickets.atlassian.net/browse/DESK-<Nummer>
 
 # Wikis
   w 0: http://de.wikipedia.org/wiki/Wikipedia:Hauptseite
