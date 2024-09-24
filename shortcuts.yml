@@ -17,13 +17,14 @@
   we 1: https://en.wikipedia.org/wiki/<ArticleName>
   wa 0: http://www.wiki-aventurica.de
 
-# Google Maps
+# Google Maps / Geo
   gm 0: https://www.google.com/maps/@30,25,4z?force=canvas
   gm 1: https://www.google.com/maps/search/<Ort>
   gmd 0: https://www.google.de/maps/@51,11,7z?force=canvas
   gmp 0: https://www.google.de/maps/@52.3977679,13.0761828,13z?force=canvas
   gmb 0: https://www.google.de/maps/@52.515,13.39,12z?force=canvas
   gmhh 0: https://www.google.de/maps/@52.567,10,13z?force=canvas
+  size 0: https://thetruesize.com
 
 # Streaming
   ard 0: https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL2xpdmUvY2xpcC9hYmNhMDdhMy0zNDc2LTQ4NTEtYjE2Mi1mZGU4ZjY0NmQ0YzQ
