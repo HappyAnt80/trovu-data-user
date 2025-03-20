@@ -10,7 +10,7 @@
   s 1: https://henara-tickets.atlassian.net/browse/SVO-<Nummer>
   h 1: https://henara-tickets.atlassian.net/browse/HVO-<Nummer>
   desk 1: https://henara-tickets.atlassian.net/browse/DESK-<Nummer>
-  gh: https://github.com/
+  gh 0: https://github.com/
 
 # Wikis
   w 0: http://de.wikipedia.org/wiki/Wikipedia:Hauptseite
