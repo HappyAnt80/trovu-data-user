@@ -9,6 +9,7 @@
   j 0: https://henara-tickets.atlassian.net/jira/software/c/projects/HVO/boards/37
   s 1: https://henara-tickets.atlassian.net/browse/SVO-<Nummer>
   h 1: https://henara-tickets.atlassian.net/browse/HVO-<Nummer>
+  c 1: https://henara-tickets.atlassian.net/browse/CVO-<Nummer>
   desk 1: https://henara-tickets.atlassian.net/browse/DESK-<Nummer>
   gh 0: https://github.com/
 
