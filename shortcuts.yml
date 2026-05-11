@@ -6,11 +6,8 @@
   t 0: http://www.tagesschau.de/
 
 # Arbeit
-  j 0: https://henara-tickets.atlassian.net/jira/software/c/projects/HVO/boards/37
   s 1: https://henara-tickets.atlassian.net/browse/SVO-<Nummer>
   h 1: https://henara-tickets.atlassian.net/browse/HVO-<Nummer>
-  c 1: https://henara-tickets.atlassian.net/browse/CVO-<Nummer>
-  desk 1: https://henara-tickets.atlassian.net/browse/DESK-<Nummer>
 
 # IT
   gh 0: https://github.com/
@@ -51,9 +48,12 @@
   pollen 0: http://www.wetteronline.de/pollen/potsdam
   su 0: https://www.timeanddate.com/sun/germany/potsdam
 
-# Allerlei
+# AI
   gmi 0: https://gemini.google.com/app?hl=de
   ds 0: https://chat.deepseek.com/
+  c 0: https://claude.ai
+
+# Allerlei
   mr 0: https://www.instagram.com/maggierogers/?hl=de
   faq 0: https://de-de.facebook.com/filmauskenner
   iss 0: https://spotthestation.nasa.gov/tracking_map.cfm
