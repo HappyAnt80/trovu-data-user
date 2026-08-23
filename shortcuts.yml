@@ -15,9 +15,12 @@
 
 # Wikis
   w 0: http://de.wikipedia.org/wiki/Wikipedia:Hauptseite
+  w 1: https://de.wikipedia.org/wiki/<ArticleName>
   we 0: http://en.wikipedia.org/wiki/Main_Page
   we 1: https://en.wikipedia.org/wiki/<ArticleName>
   wa 0: http://www.wiki-aventurica.de
+  wi 1: https://awoiaf.westeros.org/index.php/<ArticleName>
+  wg 0: https://roleplayaz.github.io/
 
 # Google Maps / Geo
   gm 0: https://www.google.com/maps/@30,25,4z?force=canvas
